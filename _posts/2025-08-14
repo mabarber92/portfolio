@@ -1,0 +1,16 @@
+---
+title: "My first test blog"
+excerpt_separator: "<!--more-->"
+categories:
+  - project1
+tags:
+  - experiments
+  - tests
+image: images/Muqaffa-or14533-3.pdf_page_78.png
+---
+
+# A test blog post
+
+This blog post is a test of a post that contains a manuscript image <!--more-->
+
+The manuscript image is a holograph by al-Maqrizi of the *Muqaffa*
